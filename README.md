@@ -1,0 +1,2 @@
+# new-project
+django project
